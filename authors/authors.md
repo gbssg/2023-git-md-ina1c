@@ -9,5 +9,6 @@ Die Autoren dieser Referenz sind:
 - [Leotrim Ramadani](rale.md)
 - [Raphael Hilti](rhil.md)
 - [Samuel Reutimann](SaRe.md)
+- [Williams Pesic](wipe.md)
 
 Begleitet durch [Ueli Niederer](niue.md)
