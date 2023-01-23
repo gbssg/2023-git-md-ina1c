@@ -20,7 +20,7 @@ Ich bin in der Lehre als Informatiker Applikationsentwicklung und arbeite in der
 
 #### Social Media Profile
 
-- Github: rubigc
+- [Github](https://github.com/rubigc)
 
 #### Hallo Welt in einer Sprache die ich lerne
 
