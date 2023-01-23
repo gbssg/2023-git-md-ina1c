@@ -8,5 +8,6 @@ Die Autoren dieser Referenz sind:
 - [Ruben Gonzalez](goru.md)
 - [Leotrim Ramadani](rale.md)
 - [Raphael Hilti](rhil.md)
+- [Williams Pesic](wipe.md)
 
 Begleitet durch [Ueli Niederer](niue.md)
