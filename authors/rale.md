@@ -1,6 +1,6 @@
 # Leotrim Ramadani
 
-<img src="../img/rale.jpg" width="100" height="125">
+<img src="../img/rale.jpg" width="150" height="175">
 
 ## Kurze Biographie
 
