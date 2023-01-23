@@ -41,7 +41,21 @@ Mein Name Raphael Hilti und ich bin 16 Jahre alt. Ich wohne in Ruggell und habe 
 ---
 <br>
 
-## Social Media
+## Lieblingssprachen
+
+Meine liebste Programmiersprache ist `C#`: <br>
+Hello World in `C#`
+
+```C#
+
+public int main() {
+    Console.WriteLine("Hello World!");
+
+    return 0;
+}
+```
+
+
 
 
 
