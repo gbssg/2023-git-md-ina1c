@@ -31,7 +31,7 @@ Heute bin ich teilweise als Lehrer im Informatikbereich tätig, teilweise helfe 
 
 ## Hallo Welt in meiner Lieblingssprache
 
-Eigentlich hab ich keine lieblingssprache, sondern bin zumindest im Software Engineering bemüht polyglott unterwegs zu sein. Mein Beispiel mach ich einfach mal in `C`:
+Eigentlich hab ich keine lieblingssprache, sondern bin zumindest im Software Engineering bemüht polyglott unterwegs zu sein. Mein Beispiel mach ich einfach mal in `C:
 
 ```c
 #include <stdio.h>
