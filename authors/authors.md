@@ -7,5 +7,6 @@ Die Autoren dieser Referenz sind:
 - [Adrian Orlamünde](orad.md)
 - [Ruben Gonzalez](goru.md)
 - [Leotrim Ramadani](rale.md)
+- [Raphael Hilti](rhil.md)
 
 Begleitet durch [Ueli Niederer](niue.md)
