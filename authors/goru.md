@@ -2,7 +2,7 @@
 
 ### Kurze Biographie
 
-Ich bin in der Lehre als Informatiker Applikations entwicklung und arbeite in der Veratron AG
+Ich bin in der Lehre als Informatiker Applikationsentwicklung und arbeite in der Veratron AG
 
 #### Meine Ausbildungsschritte
 
